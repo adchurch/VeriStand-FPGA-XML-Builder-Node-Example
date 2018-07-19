@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "10.1.128.44"
+
+[NI-PXIe8880-2F184A76]
+NI-PXIe8880-2F184A76 = "169.254.122.14"
+
+[RT Desktop Target]
+RT Desktop Target = "0.0.0.0"
+
